@@ -29,7 +29,7 @@ function removeMascot() {
 $(document).ready(function(event) {
     var mascotEnable    = true;
     var mascotPath      = "images/mascots/"
-    var mascotList      = [ 'ruri1.png', 'ruri2.png', 'ruri3.png' ];
+    var mascotList      = [ 'ruri1.png', 'ruri2.png', 'ruri3.png', '1301672926378.png', '1301784304634.png', '1306184031959.png', '1312229941802.png', '1312593323999.png', '1316667379875.png', '1322861419500.png', '1327543300633.png', '1328736836598.png', '1333206795333.png', '1335196795363.png', '1336608418666.png', '1352739873359.png', '1353291633842.png', '1375036110052.png', 'Retro-futuristic_Fashion_144640_1785x2103[theAnimeGallery.com].png', 'bakemonogatari___senjougahara_hitagi___vector_by_kyuubi3000-d6hmgol.png', 'poko_fox_by_paperjoey-d4uc94x.png', 'suzumiya_haruhi_render_by_joseph_uk-d30vs8v.png' ];
 
     var mascot          = mascotPath + mascotList[Math.floor(Math.random() * mascotList.length)];
     var mascotMinWidth  = '750';
