@@ -42,13 +42,19 @@ h1 {
     color: rgba(100,100,100,1);
 }
 .google {
-    background-image: url('../images/google.png');
+    background-image: url('google.jpg');
 }
 .youtube {
-    background-image: url('../images/youtube.png');
+    background-image: url('youtube.jpg');
 }
 .wikipedia {
-    background-image: url('../images/wikipedia.jpg');
+    background-image: url('wikipedia.png');
+}
+.qwant {
+    background-image: url('qwant.png');
+}
+.duckduckgo {
+    background-image: url('duckduckgo.png');
 }
 
 /* Grey button */

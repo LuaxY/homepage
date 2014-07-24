@@ -43,16 +43,19 @@ h1 {
     color: rgba(100,100,100,1);
 }
 .google {
-    background-image: url('../images/google-light.png');
+    background-image: url('google.jpg');
 }
-
 .youtube {
-    background-image: url('../images/youtube-light.png');
+    background-image: url('youtube.jpg');
 }
-
 .wikipedia {
-    background-image: url('../images/wikipedia-light.jpg');
-    background-size: 21px 21px;
+    background-image: url('wikipedia.png');
+}
+.qwant {
+    background-image: url('qwant.png');
+}
+.duckduckgo {
+    background-image: url('duckduckgo.png');
 }
 
 /* Grey button */
